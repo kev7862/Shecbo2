@@ -620,7 +620,7 @@ a.map-w3l-loca i {
 .map-pos h2 {
     font-size: 2.5em;
     color: #fff;
-    margin-bottom: .5em;
+    margin-bottom: 0;
     letter-spacing: 3px;
 }
 .map-pos p {
@@ -1667,7 +1667,7 @@ a.w3_agile_vimeo:hover{
 		font-size: 2.2em;
 	}
 	.map iframe {
-		height: 400px;
+		height: 600px;
 	}
 	.w3l-news, .w3layouts-newsletter {
 		padding: 3em 1.5em;
@@ -2059,7 +2059,7 @@ a.w3_agile_vimeo:hover{
 		letter-spacing: 2px;
 	}
 	.map iframe {
-		height: 350px;
+		height: 600px;
 	}
 	.map-pos {
 		padding: 1.5em 5em;
